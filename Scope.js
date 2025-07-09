@@ -17,3 +17,16 @@ function CheckBlockScope(){
 }
 
 CheckBlockScope()
+
+//Function Scope 
+function CheckFunctionScope(){
+    let name = "I am in Main Function"
+    function InSubFunction(){
+        let name = "I am in first sub  function"
+        console.log(name)
+    }
+    InSubFunction()
+    console.log(name)
+
+}
+CheckFunctionScope();
