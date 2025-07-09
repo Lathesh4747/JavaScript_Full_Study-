@@ -1,3 +1,9 @@
+///
+///Three type of scope in this javascript 
+///Global Scope 
+///Block Scope 
+///Function Scope
+///
 //Global Scope
 const name1 = 'Lathesh'
 function GlobalScope(){
