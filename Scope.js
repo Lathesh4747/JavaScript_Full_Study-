@@ -5,6 +5,7 @@
 ///Function Scope
 ///
 //Global Scope
+//
 const name1 = 'Lathesh'
 function GlobalScope(){
     console.log(name1)
