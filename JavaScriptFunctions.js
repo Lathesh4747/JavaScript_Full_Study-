@@ -37,3 +37,14 @@ function ad (a,b){
 
 console.log(ad())
 
+
+// this name is call back function 
+// function(message){
+
+// }
+
+// // this is arrow function.. this is also call back function 
+// ()=>{
+
+// }
+// this useage in Array.js check it 
